@@ -14,12 +14,12 @@ The goal is to uncover insights about fraudulent transactions, identify high-ris
   - `isFraud` – 1 if the transaction is fraudulent, 0 otherwise
   - `isFlaggedFraud` – 1 if transaction was flagged by system
 
-## 🛠 Tools Used
+##  Tools Used
 - **Database:** SQLite (via DBeaver)
 - **Language:** SQL
 - **Version Control:** Git & GitHub
 
-## 📊 SQL Queries & Insights
+##  SQL Queries & Insights
 1. **Total Transactions by Type**  
    Counts number of transactions and total transaction amount per type.
 
